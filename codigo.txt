@@ -1,0 +1,6 @@
+let aluno = prompt("qual seu nome");
+if(aluno === "joao"){
+console.log("bem vindo");
+}else{
+console.log("sai pia");
+}
